@@ -11,6 +11,12 @@ I'm a beginner web developer building projects and learning by doing. My current
 - Linux fundamentals and command-line skills
 - AI-assisted development and managing agentic AI tools
 
+## Currently exploring
+
+- TypeScript, Node.js, and React
+- Building responsive web interfaces
+- Connecting front ends to APIs
+
 ## Projects
 
 ### Web development
