@@ -9,13 +9,17 @@ I'm a beginner web developer building projects and learning by doing. My current
 - Go fundamentals
 - C# fundamentals
 - Linux fundamentals and command-line skills
-- AI-assisted development and managing agentic AI tools
+- AI-assisted development workflows
 
 ## Currently exploring
 
 - TypeScript, Node.js, and React
 - Building responsive web interfaces
 - Connecting front ends to APIs
+
+## AI-assisted development
+
+I use agentic AI tools as part of my development workflow to plan features, explore solutions, prototype interfaces, debug issues, and improve code. I treat AI as a practical collaborator: I review and test its output while focusing on the architectural decisions, trade-offs, and role each part plays in the broader system. I'm especially interested in software architecture and how well-designed pieces work together to create a complete product.
 
 ## Projects
 
